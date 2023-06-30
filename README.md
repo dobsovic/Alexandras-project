@@ -8,3 +8,5 @@ my *awesome* project
 incredible :-)
 
 Have a nice day
+
+Thank you :)

@@ -1,3 +1,3 @@
 # Alexandras awesome Project
-30.6.2023
+2023-06-30
 my *awesome* project

@@ -1,2 +1,3 @@
-# Alexandras Project
-my *awesome* project^O
+# Alexandras awesome Project
+30.6.2023
+my *awesome* project
